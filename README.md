@@ -3,7 +3,7 @@
 Welcome to the official code repository for the Udemy course:
 
 🎓 **[Agentic Way to Data Analytics: Streamline Analytics Pipeline](https://www.udemy.com/course/generative-ai-for-data-analytics/?referralCode=EF854E51D1B4C96924D5)**  
-_By Dr. Mohsin KM_
+By Dr. KM Mohsin
 
 ---
 
